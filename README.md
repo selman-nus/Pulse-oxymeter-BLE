@@ -16,3 +16,5 @@ Tools used for hack:
 - nRF Connect Windows software
 - nRF52DK board
 - Second mobile phone (Android in this case)
+
+iChoice_BLE.ino tested with ESP32 devkitc.

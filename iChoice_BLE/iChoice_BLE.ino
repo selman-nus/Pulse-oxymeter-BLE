@@ -1,3 +1,6 @@
+// to receive data from iChoice pulse oximeter via BLE
+// developed for ESP32 devkitc
+
 #include "BLEDevice.h"
 
 //device  id: 5BFE6260-7BEB-C859-1972-62A684F4B447
